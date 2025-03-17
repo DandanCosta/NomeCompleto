@@ -2,7 +2,7 @@
 string sobrenome;
 
 
-Console.Write("Digiteo primeiro nome: ");
+Console.Write("Digite o primeiro nome: ");
 nome = Console.ReadLine()!;
 
 Console.Write("Digite o sobrenome: ");
